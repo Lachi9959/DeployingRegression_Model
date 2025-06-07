@@ -1,0 +1,6 @@
+house_price_prediction/
+│
+├── model_training.py          # Train and save the model
+├── app.py                     # Flask API to serve predictions
+├── requirements.txt           # All required Python packages
+└── sample_input.json          # JSON input for testing the API
